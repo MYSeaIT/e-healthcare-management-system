@@ -1,0 +1,39 @@
+.form-container {
+    
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    
+    }
+  
+  .form-container form {
+
+    height: 600px;
+    width: 600px;
+    margin:auto;
+    padding: 50px;
+    background-color: rgba(93, 221, 225, 0.473);
+    border-radius: 15px;
+    justify-content:center;
+  }
+  
+  .log-btn{
+
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    }
+
+  .sign-btn{
+
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+  }
+
+  .lg-btn{
+
+    width: 200px;
+    border-radius: 50px;
+    text-transform:capitalize;
+  }
